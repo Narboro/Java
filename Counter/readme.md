@@ -1,1 +1,1 @@
-# Simple class to count add and even numbers from 1 to 100
+### Simple class to count odd and even numbers from 1 to 100
