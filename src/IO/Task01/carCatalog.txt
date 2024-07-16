@@ -1,0 +1,50 @@
+number: RR-111-RR
+year: 2015
+color: green
+actualTechnicalInspection: actual
+
+number: RR-222-RR
+year: 2016
+color: red
+actualTechnicalInspection: actual
+
+number: RR-333-RR
+year: 2017
+color: yellow
+actualTechnicalInspection: actual
+
+number: RR-444-RR
+year: 2018
+color: black
+actualTechnicalInspection: actual
+
+number: RR-555-RR
+year: 2018
+color: magenta
+actualTechnicalInspection: actual
+
+number: RR-666-RR
+year: 2018
+color: purple
+actualTechnicalInspection: actual
+
+number: RR-777-RR
+year: 2018
+color: orange
+actualTechnicalInspection: actual
+
+number: RR-888-RR
+year: 2018
+color: white
+actualTechnicalInspection: actual
+
+number: RR-999-RR
+year: 2018
+color: olive
+actualTechnicalInspection: actual
+
+number: RR-000-RR
+year: 2018
+color: yellow
+actualTechnicalInspection: actual
+
